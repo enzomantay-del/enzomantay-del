@@ -1,11 +1,9 @@
- # Hi, I'm Enzo Mantay 👋
-
-  **Tourism Director & Web Developer** specialized in digital solutions
-  for the tourism industry.
-
-  I combine 20 years of experience in the tourism sector with web
-  development skills to build tools that actually solve real problems
-  for hotels, travel agencies, tour operators, and destinations.
+# Hi, I'm Enzo Mantay 👋
+                                                                                                                         **Tourism Director & Full Stack Developer**
+  Jardín América, Misiones, Argentina                                                                                  
+  I combine 20 years of experience in the tourism industry with web development skills to build real digital solutions
+  for the sector. I currently serve as Municipal Tourism Director, hold a Bachelor's degree in Tourism, and a Diploma
+  in Smart Tourism Destination Management (UNaM).
 
   ---
 
@@ -22,40 +20,30 @@
 
   ---
 
-  ## 🚀 Featured Projects
+  ## 🚀 Projects
 
-  ### 🏛️ [TuriGest JA](https://turigest-ja.web.app)
-  Municipal tourism management system for Jardín América, Misiones.
-  Visitor registration, event management, occupancy analytics,
-  WhatsApp integration and automated monthly reports.
+  ### [TuriGest JA](https://turigest-ja.web.app)
+  Municipal tourism management system in production. Visitor registration, event management, hotel occupancy analytics,
+   and automated monthly reports.
   `HTML` `CSS` `JavaScript` `Firebase`
 
-  ### 🛒 Ferretería El Ángulo
-  E-commerce with shopping cart, admin panel and stock management.
+  ### [Ferretería El Ángulo](https://github.com/enzomantay-del/ferreteria-el-angulo)
+  E-commerce platform with shopping cart, admin panel, and inventory management.
   `Node.js` `Express` `SQLite`
 
-  ### ✈️ Olala Viajes
-  Travel agency website with tour packages catalog and booking system.
+  ### [Olala Viajes](https://github.com/enzomantay-del/olala-viajes)
+  Travel agency website with tour package catalog and booking functionality.
   `Python` `Django` `SQLite`
 
-  ### 🌿 Jardín América Turismo
-  Static tourism website promoting local destinations.
+  ### [Jardín América Turismo](https://github.com/enzomantay-del/jardin-america-turismo)
+  Static promotional website for local tourism destinations.
   `HTML` `CSS` `JavaScript`
 
   ---
 
-  ## 🌎 About me
+  ## 📫 Get in touch
 
-  - 🏛️ Currently: Director of Tourism — Jardín América, Misiones, Argentina
-  - 🎓 Bachelor's degree in Tourism (UNaM)
-  - 📜 Diploma in Smart Tourism Destination Management (UNaM)
-  - 💼 Open to freelance projects and remote opportunities
-  - 📍 Jardín América, Misiones, Argentina
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.link
+  edin.com/in/enzo-mantay-3602a6314/)
 
-  ---
-
-  ## 📫 Contact
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.
-  com/in/enzomantay)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu@email.com)
+  Open to remote freelance projects at the intersection of tourism and technology.
