@@ -41,16 +41,16 @@ Agencia de viajes: catálogo web público + panel interno (clientes, reservas, c
 Gestión turística municipal en producción (acceso restringido): visitantes, eventos, ocupación hotelera, WhatsApp e informes.  
 `JavaScript` · `Firebase`
 
-### 🏢 [Portal Municipal Jardín América](https://github.com/enzomantay-del/portal-municipal-jardin-america)
-Portal oficial: novedades por área, mapas de obras, reportes ciudadanos, paneles admin y notificaciones push.  
+### 🏢 [Portal Municipal Jardín América](https://github.com/enzomantay-del/portal-municipal-jardin-america) · [Sitio](https://enzomantay-del.github.io/portal-municipal-jardin-america/)
+Portal oficial en producción: novedades por área, mapas de obras, reportes ciudadanos, paneles admin y notificaciones push.  
 `JavaScript` · `Firebase` · `Netlify Functions` · `Leaflet`
 
-### 🛍️ [Jardín Sale Week](https://github.com/enzomantay-del/jardin-sale-week)
-Plataforma del evento comercial municipal: registro de comerciantes, ofertas con aprobación admin y sitio público.  
+### 🛍️ [Jardín Sale Week](https://github.com/enzomantay-del/jardin-sale-week) · [Ofertas](https://enzomantay-del.github.io/jardin-sale-week/ofertas.html)
+Plataforma del evento comercial: comerciantes, aprobación de ofertas, sitio público y circuitos turísticos.  
 `JavaScript` · `Supabase` · `Bootstrap`
 
 ### 🛒 [Ferretería El Ángulo](https://github.com/enzomantay-del/ferreteria-el-angulo)
-E-commerce con catálogo, carrito, panel admin e inventario.  
+E-commerce full stack: catálogo, carrito, checkout, panel admin, inventario y pedidos.  
 `Node.js` · `Express` · `SQLite`
 
 ### 🌿 [Turismo Jardín América](https://github.com/enzomantay-del/jardin-america-turismo) · [Sitio](https://enzomantay-del.github.io/jardin-america-turismo/)
