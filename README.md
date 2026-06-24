@@ -30,15 +30,15 @@ Combino más de 20 años en turismo con desarrollo web para construir sistemas d
 ## Proyectos destacados
 
 ### 🏛️ [Plataforma Campaña — Directo al vecino](https://github.com/enzomantay-del/plataforma-campa-a)
-Sistema municipal: contactos por barrio, formulario público para referentes, envíos masivos WhatsApp y panel de métricas.  
+Sistema municipal en producción (acceso restringido): contactos por barrio, WhatsApp masivo y panel de métricas.  
 `Next.js` · `TypeScript` · `Prisma` · `Supabase` · `WhatsApp Cloud API`
 
-### ✈️ [Olalá Viajes](https://github.com/enzomantay-del/olala-viajes) · [Panel](https://olala-viajes.onrender.com) · [Web](https://olala-viajes.web.app)
-Agencia de viajes: clientes, reservas multi-servicio, cobros, PDFs, catálogo web público.  
+### ✈️ [Olalá Viajes](https://github.com/enzomantay-del/olala-viajes) · [Web pública](https://olala-viajes.web.app)
+Agencia de viajes: catálogo web público + panel interno (clientes, reservas, cobros, PDFs).  
 `Python` · `Django` · `Firebase` · `ReportLab`
 
-### 🗺️ [TuriGest JA](https://github.com/enzomantay-del/turigest-ja) · [En vivo](https://turigest-ja.web.app)
-Gestión turística municipal: visitantes, eventos, ocupación hotelera, WhatsApp e informes automáticos.  
+### 🗺️ [TuriGest JA](https://github.com/enzomantay-del/turigest-ja)
+Gestión turística municipal en producción (acceso restringido): visitantes, eventos, ocupación hotelera, WhatsApp e informes.  
 `JavaScript` · `Firebase`
 
 ### 🏢 [Portal Municipal Jardín América](https://github.com/enzomantay-del/portal-municipal-jardin-america)
